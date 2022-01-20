@@ -2,9 +2,7 @@ package moe.henry_zhr.killassetfonts;
 
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
-
 import androidx.annotation.Keep;
-
 import de.robv.android.xposed.IXposedHookLoadPackage;
 import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XposedHelpers;
